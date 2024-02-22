@@ -3,7 +3,7 @@
 A SpringBoot web application that integrates with PostgreSQL database and uses Docker to run in a container. The application contains REST API that would allow users to perform CRUD operations on a data model representing an e-commerce platform. The REST API is defined using OpenAPI.
 
 ### How to Run
-Please execute the following commands:
+Clone the project by executing ```git clone https://github.com/apriltm/e-commerce-application.git``` or download and unzip. Please check if in the correct path of the project folder and execute the following commands:
 #### Running Dockerfile
 If running the Dockerfile, use the commands below:
 ```aidl
