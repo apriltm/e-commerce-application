@@ -1,0 +1,51 @@
+/* FOR PRODUCT: POST. SIMPLY INSERT AND EXECUTE TO RECEIVE A RESPONSE. */
+
+//{
+//  "name": "Steam Deck",
+//  "price": 420.99,
+//  "imageUrl": "https://m.media-amazon.com/images/I/516sb3osGJL.jpg",
+//  "quantity": 7
+//}
+
+
+//{
+//  "name": "Game Boy Advance SP",
+//  "price": 159.99,
+//  "imageUrl": "https://m.media-amazon.com/images/I/41ZYrAnQubL._AC_UF1000,1000_QL80_.jpg",
+//  "quantity": 14
+//}
+
+
+/* THE ID AUTOMATICALLY GENERATES. GRAB THE ID FROM EXECUTING PRODUCTS: GET (ALL PRODUCTS) TO EXECUTE THE FOLLOWING:
+
+PUT, GET {ID}, DELETE {ID}
+FOR PUT, ANY OF THE PROPERTIES EXCEPT ID CAN BE MODIFIED AND ACCEPTED BUT ONLY IF THE ID MATCHES WHAT IS IN THE PAYLOAD.
+
+INSTRUCTIONS ARE THE SAME FOR ORDER AND ORDER ITEM
+
+*/
+
+
+/* FOR ORDER ITEM: POST. SIMPLY INSERT AND EXECUTE TO RECEIVE A RESPONSE. */
+
+//{
+//  "id": "a878df18-fe64-4891-be64-e7c384b97548",
+//  "price": 249.99,
+//  "productDto":   {
+//    "id": "642d5cbc-64bc-4d33-8f7c-62a8dc9aabda",
+//    "name": "Xbox Series X",
+//    "price": 449.99,
+//    "imageUrl": "https://m.media-amazon.com/images/I/51ojzJk77qL._AC_UF1000,1000_QL80_.jpg",
+//    "quantity": 12
+//  },
+//  "quantity": 2,
+//  "subTotal": 0
+//}
+
+
+
+
+
+
+
+
